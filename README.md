@@ -1,6 +1,8 @@
 # koa-request-xhr
 This middleware simply sets a `xhr` boolean on the koa request.
 
+This aims to be the equivalent of [Express `req.xhr`](http://expressjs.com/api.html#req.xhr)
+
 ## Installation
 
 ```
