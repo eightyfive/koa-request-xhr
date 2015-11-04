@@ -1,0 +1,19 @@
+{
+  "name": "koa-request-xhr",
+  "version": "0.0.1",
+  "description": "Express req.xhr equivalent for koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eightyfive/koa-request-xhr.git"
+  },
+  "author": "Benoit Sagols",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eightyfive/koa-request-xhr/issues"
+  },
+  "homepage": "https://github.com/eightyfive/koa-request-xhr#readme"
+}
