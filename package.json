@@ -1,6 +1,6 @@
 {
   "name": "koa-request-xhr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Express req.xhr equivalent for koa",
   "main": "index.js",
   "scripts": {
