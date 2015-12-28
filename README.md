@@ -18,7 +18,7 @@ var app = koa();
 
 app.use(xhr());
 app.use(function *(){  
-  if (this.request.xhr) {
+  if (this.state.xhr) {
     this.body = { message: 'Hello World' };
   } else {
     this.body = 'Hello World';
