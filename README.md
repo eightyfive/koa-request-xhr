@@ -1,5 +1,5 @@
 # koa-request-xhr
-This middleware simply sets a `xhr` boolean on the koa request.
+This middleware simply sets a `xhr` boolean on the koa's [`ctx.state`](https://github.com/koajs/koa/blob/master/docs/api/context.md#ctxstate) namespace.
 
 This aims to be the equivalent of [Express `req.xhr`](http://expressjs.com/api.html#req.xhr)
 
